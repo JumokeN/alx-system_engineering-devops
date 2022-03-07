@@ -1,5 +1,2 @@
 #!/bin/bash
 ls -la > ls_cwd_content
-[main 6744531]  Save current state of directory
- 1 file changed, 2 insertions(+)
- create mode 100755 0x02-shell_redirections/8-cwd_state
